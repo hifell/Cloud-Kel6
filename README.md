@@ -1,4 +1,3 @@
-# Bautomate PropTech Analytics
 
 End-to-end Azure Lakehouse untuk klasifikasi valuasi properti Indonesia.
 Berbasis Medallion Architecture (Bronze → Silver → Gold).
